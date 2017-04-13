@@ -1,0 +1,19 @@
+{
+  "name": "c9m-sensor-process-cpu-usage",
+  "version": "0.1.0",
+  "description": "Cloud9Metrics sensor for reading process CPU usage",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud9Trader/c9m-sensor-process-cpu-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud9Trader/c9m-sensor-process-cpu-usage/issues"
+  },
+  "homepage": "https://github.com/Cloud9Trader/c9m-sensor-process-cpu-usage#readme",
+  "dependencies": {
+  }
+}
